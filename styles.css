@@ -1,0 +1,19 @@
+*{
+      font-family: "Montserrat", sans-serif;
+}
+.border{
+    background-image:url(./images/photo-1518655048521-f130df041f66.avif);
+    padding:120px 0px;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.image{
+    border-radius:50%;
+    object-fit:cover;
+    object-position:center;
+    /* height:50%; */
+}
+
+.card-div{
+    justify-content:space-evenly;
+}
